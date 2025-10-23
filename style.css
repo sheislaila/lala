@@ -13,7 +13,8 @@ font-family:Arial, sans-serif; */jenis huruf yang bersih dan mudah dibaca */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
     text-align: center; /* menengahkan semua teks di dalam kartu */
 }
+
 .kartu-profil img {
     widht: 150px;
-    border-radius: 50% /* trik untuk membuat gambar persegi menjadi lingkaran sempurna 
+    border-radius: 50% /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
